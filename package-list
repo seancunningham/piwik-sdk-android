@@ -1,1 +1,5 @@
 org.piwik.sdk
+org.piwik.sdk.dispatcher
+org.piwik.sdk.ecommerce
+org.piwik.sdk.plugins
+org.piwik.sdk.tools
